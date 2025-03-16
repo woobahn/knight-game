@@ -1,3 +1,3 @@
-x="ruban "
-y="is gay"
+x="ruban and sash "
+y="are gay"
 print(x+y)
